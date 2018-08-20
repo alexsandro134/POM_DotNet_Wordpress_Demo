@@ -1,0 +1,11 @@
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\Tests.dll
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\Tests.pdb
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\POM_SELENIUM.dll
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\POM_SELENIUM.pdb
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\obj\Debug\Tests.dll
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\obj\Debug\Tests.pdb
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\WebDriver.dll
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\WebDriver.xml
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\libs\chromedriver.exe
+E:\C# Workspace\PS_AUTOMATION_SELENIUM\POM_SELENIUM\Tests\bin\Debug\libs\IEDriverServer.exe
