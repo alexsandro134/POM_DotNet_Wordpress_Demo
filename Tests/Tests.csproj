@@ -52,6 +52,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Smoke Tests\AllPostsTests.cs" />
     <Compile Include="Utilities\BaseTest.cs" />
     <Compile Include="Smoke Tests\CreatePostTest.cs" />
     <Compile Include="Smoke Tests\LoginTest.cs" />

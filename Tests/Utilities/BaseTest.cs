@@ -14,6 +14,9 @@ namespace Tests
         public void Init()
         {
             Driver.Initialize();
+
+            PostCreator.Initialize();
+
             LoginPage.GoTo();
             LoginPage.LoginAs("admin").WithPassword("password@123").Login();
         }
@@ -21,6 +24,8 @@ namespace Tests
         [TestCleanup]
         public void Cleanup()
         {
+            PostCreator.Cleanup();
+
             Driver.Close();
         }
     }
