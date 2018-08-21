@@ -52,10 +52,10 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="BaseTest.cs" />
-    <Compile Include="CreatePostTest.cs" />
-    <Compile Include="LoginTest.cs" />
-    <Compile Include="PageTests.cs" />
+    <Compile Include="Utilities\BaseTest.cs" />
+    <Compile Include="Smoke Tests\CreatePostTest.cs" />
+    <Compile Include="Smoke Tests\LoginTest.cs" />
+    <Compile Include="Smoke Tests\PageTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
